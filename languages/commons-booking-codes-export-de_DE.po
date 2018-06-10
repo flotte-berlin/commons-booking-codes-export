@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cb-admin-booking\n"
+"POT-Creation-Date: 2018-06-10 11:20+0100\n"
+"PO-Revision-Date: 2018-06-10 11:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: deutsch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../commons-booking-codes-export.php:36
+msgid "CODE_EXPORT"
+msgstr "Codes exportieren"
+
+#: ../commons-booking-codes-export.php:71
+msgid "NO_VALID_ITEM"
+msgstr "Es wurde kein gültiges Commons-Booking Item gewählt."
+
+#: ../commons-booking-codes-export.php:76
+msgid "CHOOSE_ITEM"
+msgstr "Zum Exportieren der Codes bitte ein Item im Filter auswählen."
+
+#: ../commons-booking-codes-export.php:141
+msgid "DATE"
+msgstr "Datum"
+
+#: ../commons-booking-codes-export.php:142
+msgid "BOOKING_CODE"
+msgstr "Buchungscode"
+
+#: ../commons-booking-codes-export.php:143
+msgid "LOCATION"
+msgstr "Standort"
+
+#: ../templates/cb-codes-export.php:5
+msgid "BOOKING_CODES_FROM"
+msgstr "Buchungscodes von"
+
+#: ../templates/cb-codes-export.php:6
+msgid "INCLUDE_LOCATION_NAME"
+msgstr "inklusive dem jeweiligen Standortnamen"
+
+#: ../templates/cb-codes-export.php:7
+msgid "FOR_PERIOD"
+msgstr "für den Zeitraum vom"
+
+#: ../templates/cb-codes-export.php:8
+msgid "UNTIL"
+msgstr "bis"
+
+#: ../templates/cb-codes-export.php:9
+msgid "AS_CSV"
+msgstr "als CSV"
+
+#: ../templates/cb-codes-export.php:10
+msgid "EXPORT"
+msgstr "exportieren"
+
+#: ../templates/cb-codes-export.php:19
+msgid "BOOKING_CODES"
+msgstr "Buchungscodes"
